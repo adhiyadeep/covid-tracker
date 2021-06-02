@@ -1,0 +1,3 @@
+export const LOADING = "LOADING";
+export const STOP_LOADING = "STOP_LOADING";
+export const COVID_DATA_SUCCESS = "COVID_DATA_SUCCESS"
